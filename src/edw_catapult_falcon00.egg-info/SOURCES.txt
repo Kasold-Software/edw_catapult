@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/edw_catapult/__init__.py
+src/edw_catapult/main.py
+src/edw_catapult_falcon00.egg-info/PKG-INFO
+src/edw_catapult_falcon00.egg-info/SOURCES.txt
+src/edw_catapult_falcon00.egg-info/dependency_links.txt
+src/edw_catapult_falcon00.egg-info/top_level.txt
